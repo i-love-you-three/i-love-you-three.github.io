@@ -133,11 +133,11 @@ date:   2015-02-04 00:00:37
 
 ![](../pics/WechatIMG571.jpeg)
 
-![](../pics/WechatIMG571.jpeg){:width="33%" height="33%"}
+![](../pics/WechatIMG571.jpeg){:width="70%" height="70%"}
 
-![](../pics/WechatIMG572.jpeg){:width="33%" height="33%"}
+![](../pics/WechatIMG572.jpeg){:width="80%" height="80%"}
 
-![](../pics/WechatIMG573.jpeg){:width="33%" height="33%"}
+![](../pics/WechatIMG573.jpeg){:width="60%" height="60%"}
 
 ![](../pics/WechatIMG574.jpeg){:width="33%" height="33%"}
 
