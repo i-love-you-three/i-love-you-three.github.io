@@ -4,7 +4,7 @@ subtitle: "Our travel to Beijing"
 author: "lichang"
 avatar: "img/authors/wferr.png"
 image: "pics/WechatIMG543.jpeg"
-date:   2015-02-04 00:00:37
+date:   2024-02-01 00:00:37
 ---
 
 ### 我们1月31号周五出发，坐上北京的飞机（第一次不是和爸爸妈妈坐飞机哎）
