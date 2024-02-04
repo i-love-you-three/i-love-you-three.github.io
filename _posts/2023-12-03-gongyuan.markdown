@@ -3,7 +3,7 @@ title:  "我们在淮河路步行街"
 subtitle: "Our n'th time to huaihelu"
 author: "lichang"
 avatar: "img/authors/wferr.png"
-image: "pics/WechatIMG456.jpeg"
+image: "pics/WechatIMG457.jpeg"
 date:   2023-12-03 00:01:37
 ---
 
