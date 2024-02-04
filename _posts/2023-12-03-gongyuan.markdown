@@ -3,7 +3,7 @@ title:  "我们第三次来淮河路步行街"
 subtitle: "Our n'th time to xyc"
 author: "lichang"
 avatar: "img/authors/wferr.png"
-image: "pics/WechatIMG467.jpeg"
+image: "pics/WechatIMG456.jpeg"
 date:   2023-12-03 00:01:37
 ---
 
