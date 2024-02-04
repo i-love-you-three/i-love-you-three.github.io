@@ -1,5 +1,5 @@
 ---
-title:  "我们一起逛南艳湖"
+title:  "我们一起在南艳湖"
 subtitle: "Lake NanYan"
 author: "lichang"
 avatar: "img/authors/wferr.png"
@@ -7,10 +7,24 @@ image: "pics/WechatIMG447.jpeg"
 date:   2023-12-02 00:01:37
 ---
 
-### 我们从学校南艳湖出发，瞎逛到了晚上，但是太晚了
+### 我们在南艳湖和合大周边的故事
+
+我们从学校南艳湖出发，瞎逛到了晚上，但是太晚了
 
 我在路边吓哭了姐姐，我以后不说鬼故事咯
+
+我们在邻几互换衣服！
 
 ![](../pics/WechatIMG447.jpeg){:width="100%" height="100%"}
 
 ![](../pics/WechatIMG448.jpeg){:width="100%" height="100%"}
+
+![](../sec/WechatIMG42072.jpeg){:width="100%" height="100%"}
+
+![](../sec/WechatIMG42077.jpeg){:width="100%" height="100%"}
+
+![](../sec/WechatIMG42080.jpeg){:width="100%" height="100%"}
+
+![](../sec/WechatIMG42081.jpeg){:width="100%" height="100%"}
+
+![](../sec/WechatIMG42082.jpeg){:width="100%" height="100%"}

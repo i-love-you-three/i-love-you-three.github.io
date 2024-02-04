@@ -1,6 +1,6 @@
 ---
-title:  "我们第三次来淮河路步行街"
-subtitle: "Our n'th time to xyc"
+title:  "我们在淮河路步行街"
+subtitle: "Our n'th time to huaihelu"
 author: "lichang"
 avatar: "img/authors/wferr.png"
 image: "pics/WechatIMG456.jpeg"
@@ -26,3 +26,5 @@ date:   2023-12-03 00:01:37
 ![](../pics/WechatIMG459.jpeg){:width="100%" height="100%"}
 
 ![](../pics/WechatIMG456.jpeg){:width="100%" height="100%"}
+
+![](../sec/WechatIMG42060.jpeg){:width="100%" height="100%"}
