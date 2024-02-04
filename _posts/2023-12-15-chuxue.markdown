@@ -1,0 +1,16 @@
+---
+title:  "我们一起看初雪"
+subtitle: "The first snow in Hefei"
+author: "lichang"
+avatar: "img/authors/wferr.png"
+image: "pics/WechatIMG469.jpeg"
+date:   2023-12-15 00:01:37
+---
+
+### 合肥初雪，也是我在合肥记忆里的第一场雪。大一的雪似乎没有记忆～
+
+今天很冷，但是姐姐还是来xyc找我了
+
+![](../pics/WechatIMG468.jpeg){:width="100%" height="100%"}
+
+![](../pics/WechatIMG469.jpeg){:width="100%" height="100%"}

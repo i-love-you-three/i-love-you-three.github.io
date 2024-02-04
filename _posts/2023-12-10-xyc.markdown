@@ -1,0 +1,24 @@
+---
+title:  "我们一起第n次来xyc"
+subtitle: "Our n'th time to xyc"
+author: "lichang"
+avatar: "img/authors/wferr.png"
+image: "pics/WechatIMG467.jpeg"
+date:   2023-12-10 00:01:37
+---
+
+### 我爱你！
+
+我找到了很久以前的墨镜
+
+我们吃了海底捞
+
+![](../pics/WechatIMG460.jpeg){:width="100%" height="100%"}
+
+![](../pics/WechatIMG464.jpeg){:width="100%" height="100%"}
+
+![](../pics/WechatIMG465.jpeg){:width="100%" height="100%"}
+
+![](../pics/WechatIMG466.jpeg){:width="100%" height="100%"}
+
+![](../pics/WechatIMG467.jpeg){:width="100%" height="100%"}
