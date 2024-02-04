@@ -3,7 +3,7 @@ title:  "我们一起去看音乐节"
 subtitle: "Our travel to Music Festival"
 author: "lichang"
 avatar: "img/authors/wferr.png"
-image: "sec/WechatIMG4592.jpeg"
+image: "sec/WechatIMG592.jpeg"
 date:   2023-09-18 00:01:37
 ---
 
