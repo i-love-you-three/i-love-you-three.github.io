@@ -1,9 +1,9 @@
 ---
 title:  "我们一起去拿包"
-subtitle: "After tests"
+subtitle: "Take bags and losses"
 author: "lichang"
 avatar: "img/authors/wferr.png"
-image: "pics/WechatIMG521.jpeg"
+image: "pics/WechatIMG515.jpeg"
 date:   2024-01-17 00:01:37
 ---
 
@@ -15,6 +15,6 @@ date:   2024-01-17 00:01:37
 
 然后我们在去丽斯未来路上丢了电脑包和200多的巧克力（TAT）
 
-![](../pics/WechatIMG515.jpeg){:width="100%" height="100%"}
+![](../pics/WechatIMG516.jpeg){:width="100%" height="100%"}
 
 ![](../pics/WechatIMG514.jpeg){:width="100%" height="100%"}

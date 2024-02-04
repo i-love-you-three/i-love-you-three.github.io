@@ -1,20 +1,20 @@
 ---
-title:  "我们一起去拿包"
-subtitle: "After tests"
+title:  "！跨年！"
+subtitle: "2024-1-1 ！"
 author: "lichang"
 avatar: "img/authors/wferr.png"
-image: "pics/WechatIMG521.jpeg"
-date:   2024-01-17 00:01:37
+image: "pics/WechatIMG489.jpeg"
+date:   2024-01-01 00:01:37
 ---
 
-### 包包由于前一天去融创被锁在柜子里了
+### 我们和小白一起跨年！
 
-早上我爸爸妈妈来，晚上就一起去拿包啦
+烟花和篝火
 
-我们拿完包，先一起去商场吃了煎饼，下载了mc
+卡丁车！（好吓人）
 
-然后我们在去丽斯未来路上丢了电脑包和200多的巧克力（TAT）
+新年的钟声就是爆竹
 
-![](../pics/WechatIMG515.jpeg){:width="100%" height="100%"}
+![](../pics/WechatIMG489.jpeg){:width="100%" height="100%"}
 
 ![](../pics/WechatIMG514.jpeg){:width="100%" height="100%"}
