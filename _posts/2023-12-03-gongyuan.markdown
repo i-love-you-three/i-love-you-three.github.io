@@ -1,5 +1,5 @@
 ---
-title:  "我们也是第三次来淮河路步行街"
+title:  "我们第三次来淮河路步行街"
 subtitle: "Our n'th time to xyc"
 author: "lichang"
 avatar: "img/authors/wferr.png"

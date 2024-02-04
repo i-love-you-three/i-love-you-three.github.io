@@ -1,28 +1,14 @@
 ---
 title:  "我们第二次来官庭路吃炸鸡"
-subtitle: "Our n'th time to xyc"
+subtitle: "Our 2'nd time with chicken!"
 author: "lichang"
 avatar: "img/authors/wferr.png"
-image: "pics/WechatIMG467.jpeg"
+image: "pics/WechatIMG455.jpeg"
 date:   2023-12-02 00:01:37
 ---
 
-### 今天我们坐上了摩天轮
+### 今天我们都想吃炸鸡
 
-我们买了手环
+![](../pics/WechatIMG455.jpeg){:width="100%" height="100%"}
 
-我们坐上了摩天轮
-
-和那天在音乐节上的摩天轮一样，我们拥抱亲吻
-
-我们吃了很精致但是不那么好吃的餐厅
-
-看到了很好看的猫猫
-
-![](../pics/WechatIMG457.jpeg){:width="100%" height="100%"}
-
-![](../pics/WechatIMG458.jpeg){:width="100%" height="100%"}
-
-![](../pics/WechatIMG459.jpeg){:width="100%" height="100%"}
-
-![](../pics/WechatIMG456.jpeg){:width="100%" height="100%"}
+![](../pics/WechatIMG454.jpeg){:width="100%" height="100%"}
