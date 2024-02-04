@@ -3,7 +3,7 @@ title:  "我们第二次来官庭路吃炸鸡"
 subtitle: "Our 2'nd time with chicken!"
 author: "lichang"
 avatar: "img/authors/wferr.png"
-image: "pics/WechatIMG455.jpeg"
+image: "sec/WechatIMG42058.jpeg"
 date:   2023-12-02 00:01:37
 ---
 

@@ -3,7 +3,7 @@ title:  "我们一起在南艳湖"
 subtitle: "Lake NanYan"
 author: "lichang"
 avatar: "img/authors/wferr.png"
-image: "pics/WechatIMG447.jpeg"
+image: "sec/WechatIMG42072.jpeg"
 date:   2023-12-02 00:01:37
 ---
 

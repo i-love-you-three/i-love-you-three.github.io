@@ -3,7 +3,7 @@ title:  "我们一起去安庆"
 subtitle: "Our travel to An Qing"
 author: "lichang"
 avatar: "img/authors/wferr.png"
-image: "pics/WechatIMG447.jpeg"
+image: "sec/WechatIMG42094.jpeg"
 date:   2023-09-01 00:01:37
 ---
 
