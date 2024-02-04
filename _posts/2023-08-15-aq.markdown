@@ -1,0 +1,22 @@
+---
+title:  "写在最前（后）"
+subtitle: "Ours"
+author: "lichang"
+avatar: "img/authors/wferr.png"
+image: "sec/WechatIMG600.jpeg"
+date:   2023-09-01 00:01:37
+---
+
+### LC & WCX
+
+我真心希望我们会继续相伴未来的每一个瞬间
+
+![](../sec/WechatIMG42083.jpeg){:width="100%" height="100%"}
+
+![](../sec/WechatIMG42084.jpeg){:width="100%" height="100%"}
+
+![](../sec/WechatIMG42085.jpeg){:width="100%" height="100%"}
+
+![](../sec/WechatIMG600.jpeg){:width="100%" height="100%"}
+
+![](../sec/WechatIMG601.jpeg){:width="100%" height="100%"}
